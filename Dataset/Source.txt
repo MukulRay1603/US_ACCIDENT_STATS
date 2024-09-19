@@ -1,0 +1,7 @@
+US Accidents (2016 - 2023)
+A Countrywide Traffic Accident Dataset (2016 - 2023)
+
+Source - https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+
+*Download this dataset to your local machine and upload to colab via google drive.
+using chunks for memory efficiency to ensure that the project runs with 12gb RAM for the free resources provided in google colab
